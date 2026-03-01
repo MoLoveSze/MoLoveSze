@@ -16,12 +16,4 @@
 
 ---
 
- **数据**
-
-<div align="center">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MoLoveSze&show_icons=true&include_all_commits=true&&rank_icon=github" />
-</div>
-
----
-
 感谢你访问我的GitHub个人页面，愿我们共同为一个更好的世界而努力！
